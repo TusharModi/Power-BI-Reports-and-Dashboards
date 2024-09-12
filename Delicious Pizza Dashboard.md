@@ -11,7 +11,7 @@ This dashboard helps the pizza shopkeeper better understand their sales. It prov
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
+- Step 4 : It was observed that in none of the columns errors & empty values were present except columns.
 - Step 5 : In the report view, under the view tab, theme was selected.
 - Step 6 : A new visual was added using the three ellipses in the visualizations pane in report view. 
 - Step 7 : One card visual was added to the canvas, representing total sales by province.
