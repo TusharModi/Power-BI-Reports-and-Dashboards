@@ -18,6 +18,7 @@ This dashboard helps the Productivity Survey better understand human emotions. I
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into total respondents that how to improve productivity.
            Although, by default, while calculating total respondents, blank values are ignored.
 - Step 8 : A bar chart was also added to the report design area representing feeling overall.
+  
 ![Bar](https://github.com/user-attachments/assets/770e02f3-86b4-4c3b-b58f-a2161f16cf99) 
 
 
