@@ -17,8 +17,10 @@ This dashboard helps the pizza shopkeeper better understand their sales. It prov
 - Step 7 : One card visual was added to the canvas, representing total sales by province.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into total sales.
            Although, by default, while calculating total sales, blank values are ignored.
-- Step 8 : A bar chart was also added to the report design area representing the total sales of  days & target. 
+- Step 8 : A bar chart was also added to the report design area representing the total sales of  days & target.
+  
 ![Target and sales amounts by day](https://github.com/user-attachments/assets/2baa72db-eb1a-408d-9404-010e7927ab5f)
+
 - Step 9 : New measure was created to find total sales of stores.
         
 A card visual was used to represent Total Sales.
