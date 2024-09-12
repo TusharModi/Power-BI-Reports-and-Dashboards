@@ -34,5 +34,5 @@ A card visual was used to represent Total Sales.
 
  - Step 11 : The report was then published to Power BI Service.
  
-# Snapshot of Dashboard (Power BI Service)
+# Snapshot of Dashboard
 ![Delicious Pizza](https://github.com/user-attachments/assets/2831ebc8-bf74-4926-ab83-2c72f32ced7e)
