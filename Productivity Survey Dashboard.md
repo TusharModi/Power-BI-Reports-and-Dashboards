@@ -14,7 +14,7 @@ This dashboard helps the Productivity Survey better understand human emotions. I
 - Step 4 : It was observed that in none of the columns errors & empty values were present except columns.
 - Step 5 : In the report view, under the view tab, theme was selected.
 - Step 6 : A new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 7 : One card visual was added to the canvas, representing Productivity.
+- Step 7 : card visual was added to the canvas, representing Productivity.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into total respondents that how to improve productivity.
            Although, by default, while calculating total respondents, blank values are ignored.
 - Step 8 : A bar chart was also added to the report design area representing feeling overall.
