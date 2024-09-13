@@ -17,16 +17,26 @@ The dashboard also shows purchases by different states. By using this dashboard,
 - Step 7 : One card visual was added to the canvas, representing total amount, total open amount, total purchase orders and total open lines.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into total amount, total open amount, total purchase orders and total open lines.
            Although, by default, while calculating total sales, blank values are ignored.
+  
 ![cards](https://github.com/user-attachments/assets/fc503fb2-ed93-41aa-aac8-d31814c378d7)
+
 - Step 8 : A bar chart was also added to the report design area representing the total lines number by region and total purchase order by monthly.
+- 
 ![Bars](https://github.com/user-attachments/assets/ddc6f03a-69ed-43fe-94d9-99137da7bf8c)
 
 - Step 9 : The table shows purchase order details, allowing the end user to easily understand how each PO line is open or closed.
+- 
 ![PO Line](https://github.com/user-attachments/assets/878c2968-1853-47c8-a158-0ad951445940)
-  - Step 10 : The decomposition tree shows organizational information based on the total amount, and it is expandable.
+
+- Step 10 : The decomposition tree shows organizational information based on the total amount, and it is expandable.
+- 
 ![Decom](https://github.com/user-attachments/assets/7c34b9be-d1a3-46b2-b783-1882183f2209)
-  - Step 11 : The purchase line statuses are shown in a donut chart.
+
+- Step 11 : The purchase line statuses are shown in a donut chart.
+- 
 ![Line status](https://github.com/user-attachments/assets/c3bfa021-cf2a-499f-a9e2-b3447b957a96)
+
 - Step 12 : The report was then published to Power BI Service.
 # Snapshot of Dashboard
+
 ![Purchase Lines](https://github.com/user-attachments/assets/0eed5ae9-a0b1-4b4c-8e9c-1aaef3cf12cb)
