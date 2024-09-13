@@ -14,7 +14,7 @@ The dashboard also shows purchases by different states. By using this dashboard,
 - Step 4 : It was observed that in none of the columns errors & empty values were present except columns.
 - Step 5 : In the report view, under the view tab, theme was selected.
 - Step 6 : A new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 7 : One card visual was added to the canvas, representing total amount, total open amount, total purchase orders and total open lines.
+- Step 7 : card visual was added to the canvas, representing total amount, total open amount, total purchase orders and total open lines.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into total amount, total open amount, total purchase orders and total open lines.
            Although, by default, while calculating total sales, blank values are ignored.
   
