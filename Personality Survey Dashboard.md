@@ -14,8 +14,7 @@ This dashboard helps the Personality Survey better understand human attributes. 
 - Step 4 : It was observed that in none of the columns errors & empty values were present except columns.
 - Step 5 : In the report view, under the view tab, theme was selected.
 - Step 6 : A new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 7 : One card visual was added to the canvas, representing Personality.
-           Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into percentage of gender that how to improve Personality Survey.
+- Step 7 : Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into percentage of gender that how to improve Personality Survey.
            Although, by default, while calculating total respondents, blank values are ignored.
 - Step 8 : A donut chart was also added to the report design area representing gender feeling overall.
 ![gender](https://github.com/user-attachments/assets/bf06cb46-1846-4c54-b79d-52ff07b40a6d)
