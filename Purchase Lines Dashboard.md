@@ -1,7 +1,5 @@
 # Purchase Lines Dashboard
 
-### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZTIxMDg0NTEtMTI0ZS00ZjllLWFiZDQtYTg0NDcxMjQ1ZTAwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
 ## Problem Statement
 This dashboard helps the purchasing team better understand their open purchase orders. It provides insights into which purchase orders are open, closed, or completely closed. It's similar to ordering a product online: after placing an order, a request number is generated, and various processes occur, such as warehouse dispatch. Although the product might leave the warehouse, the order is not considered closed until it reaches its final destination. The same concept applies to purchase lines in the supply chain.
 The dashboard also shows purchases by different states. By using this dashboard, the head of the department can identify how many lines are open or closed, enabling higher management to make informed decisions. This is a dummy dataset and serves to demonstrate my data visualization skills.
